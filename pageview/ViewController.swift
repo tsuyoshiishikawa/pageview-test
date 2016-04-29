@@ -4,7 +4,7 @@
 //
 //  Created by tsuyoshi ishikawa on 2016/03/05.
 //  Copyright © 2016年 tsuyoshi ishikawa. All rights reserved.
-//　test
+//　test2
 
 import UIKit
 
